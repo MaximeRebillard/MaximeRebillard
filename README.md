@@ -4,7 +4,13 @@
 
 Passionate about continuous learning, I focus on early constraint identification and effective task prioritization, tackling what <b>truly matters</b>. I follow <b>TDD, Clean Code, and best practices</b> to deliver clear, scalable code, <b>driving product success</b>. Always ready to challenge the status quo and solve real-world problems.
 
-Check out the current stack I'm working on !
+--
+
+Currently : looking to contribute to open source projects.
+
+--
+
+Tech Stacks :
 
 
 <b>Request Languages : </b> 
