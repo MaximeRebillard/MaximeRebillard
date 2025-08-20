@@ -27,15 +27,13 @@ Check out the current stack I'm working on !
 
 <b>Others: </b>
 [![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com)
-[![gitlab](https://img.shields.io/badge/Gitlab-CI-FC6D26?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com)
 [![aws-cdk](https://img.shields.io/badge/AWS-CDK-232F3E?style=flat-square&logo=&logoColor=white)](https://docs.aws.amazon.com/cdk/api/v2)
 [![gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)](https://gradle.org)
 [![renovate](https://img.shields.io/badge/Renovate-308BE3?style=flat-square&logo=Renovate&logoColor=white)](https://docs.renovatebot.com)
 [![mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=Mermaid&logoColor=white)](https://mermaid.live)
 [![Structurizr](https://img.shields.io/badge/Structurizr-1168BD?style=flat-square&logo=&logoColor=white)](https://structurizr.com) 
-[![tldraw](https://img.shields.io/badge/tldraw-FAFAFA?style=flat-square&logo=Tldraw&logoColor=black)](https://www.tldraw.com)
-[![obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white)](https://obsidian.md)
-[![markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)](#)
+
+
 
 
 
