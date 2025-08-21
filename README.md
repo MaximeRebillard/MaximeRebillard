@@ -47,6 +47,7 @@ I specialize in building robust applications with modern tools and frameworks. H
 
 <!-- Optional: GitHub Stats for visual flair (need to contributions) -->
 ## 📊 GitHub Stats
+My GitHub stats are like my coffee: just brewing, not quite steaming yet! 😅
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximeRebillard&show_icons=true&theme=radical&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeRebillard&layout=compact&theme=radical)
